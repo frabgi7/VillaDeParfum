@@ -1,0 +1,130 @@
+[{
+  "_id": {
+    "$oid": "6af33c730152d1a11930c5e2"
+  },
+  "factura": "FAC-001",
+  "cliente": "Elena Gómez",
+  "empleado": "Camila Morales",
+  "producto": "Bleu de Chanel",
+  "cantidad": 1,
+  "total": 550000,
+  "metodo_pago": "Tarjeta de Crédito",
+  "fecha": "2024-06-01T10:30:00Z"
+},
+{
+  "_id": {
+    "$oid": "6af33c730152d1a11930c5e3"
+  },
+  "factura": "FAC-002",
+  "cliente": "Carlos Mendoza",
+  "empleado": "Laura Restrepo",
+  "producto": "Sauvage",
+  "cantidad": 2,
+  "total": 960000,
+  "metodo_pago": "Efectivo",
+  "fecha": "2024-06-02T11:15:00Z"
+},
+{
+  "_id": {
+    "$oid": "6af33c730152d1a11930c5e4"
+  },
+  "factura": "FAC-003",
+  "cliente": "Mariana Ríos",
+  "empleado": "Alejandro Bedoya",
+  "producto": "La Vie Est Belle",
+  "cantidad": 1,
+  "total": 420000,
+  "metodo_pago": "Transferencia",
+  "fecha": "2024-06-03T14:20:00Z"
+},
+{
+  "_id": {
+    "$oid": "6af33c730152d1a11930c5e5"
+  },
+  "factura": "FAC-004",
+  "cliente": "Andrés Morales",
+  "empleado": "Camila Morales",
+  "producto": "Bad Boy",
+  "cantidad": 1,
+  "total": 390000,
+  "metodo_pago": "Tarjeta de Crédito",
+  "fecha": "2024-06-04T16:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6af33c730152d1a11930c5e6"
+  },
+  "factura": "FAC-005",
+  "cliente": "Valentina Ospina",
+  "empleado": "Daniela Calle",
+  "producto": "Good Girl",
+  "cantidad": 1,
+  "total": 460000,
+  "metodo_pago": "Tarjeta Débito",
+  "fecha": "2024-06-05T09:45:00Z"
+},
+{
+  "_id": {
+    "$oid": "6af33c730152d1a11930c5e7"
+  },
+  "factura": "FAC-006",
+  "cliente": "Santiago Ramírez",
+  "empleado": "Alejandro Bedoya",
+  "producto": "Acqua di Gio",
+  "cantidad": 2,
+  "total": 880000,
+  "metodo_pago": "Efectivo",
+  "fecha": "2024-06-06T12:30:00Z"
+},
+{
+  "_id": {
+    "$oid": "6af33c730152d1a11930c5e8"
+  },
+  "factura": "FAC-007",
+  "cliente": "Camila Torrez",
+  "empleado": "Laura Restrepo",
+  "producto": "Black Opium",
+  "cantidad": 1,
+  "total": 510000,
+  "metodo_pago": "Tarjeta de Crédito",
+  "fecha": "2024-06-07T15:10:00Z"
+},
+{
+  "_id": {
+    "$oid": "6af33c730152d1a11930c5e9"
+  },
+  "factura": "FAC-008",
+  "cliente": "Mateo Castro",
+  "empleado": "Camila Morales",
+  "producto": "1 Million",
+  "cantidad": 3,
+  "total": 1140000,
+  "metodo_pago": "Transferencia",
+  "fecha": "2024-06-08T17:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6af33c730152d1a11930c5ea"
+  },
+  "factura": "FAC-009",
+  "cliente": "Isabella Vargas",
+  "empleado": "Daniela Calle",
+  "producto": "J'adore",
+  "cantidad": 1,
+  "total": 350000,
+  "metodo_pago": "Tarjeta Débito",
+  "fecha": "2024-06-09T10:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6af33c730152d1a11930c5eb"
+  },
+  "factura": "FAC-010",
+  "cliente": "Daniel Herrera",
+  "empleado": "Alejandro Bedoya",
+  "producto": "Eros",
+  "cantidad": 2,
+  "total": 720000,
+  "metodo_pago": "Efectivo",
+  "fecha": "2024-06-10T13:40:00Z"
+}]

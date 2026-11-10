@@ -1,0 +1,148 @@
+[{
+  "_id": {
+    "$oid": "6af339ca0152d1a11930c5ca"
+  },
+  "nombre_empresa": "Distribuidora Chanel Co",
+  "contacto_principal": "Carlos Gómez",
+  "telefono": "+573001112233",
+  "email": "contacto@chanelcolombia.com",
+  "ciudad": "Bogotá",
+  "marcas_suministradas": [
+    "Chanel"
+  ],
+  "estado": "Activo"
+},
+{
+  "_id": {
+    "$oid": "6af339ca0152d1a11930c5cb"
+  },
+  "nombre_empresa": "Luxe Fragrances SA",
+  "contacto_principal": "Patricia Meares",
+  "telefono": "+573114445566",
+  "email": "ventas@luxefragrances.com",
+  "ciudad": "Medellín",
+  "marcas_suministradas": [
+    "Dior",
+    "Lancôme"
+  ],
+  "estado": "Activo"
+},
+{
+  "_id": {
+    "$oid": "6af339ca0152d1a11930c5cc"
+  },
+  "nombre_empresa": "Beauty Import Colombia",
+  "contacto_principal": "Jorge Hurtado",
+  "telefono": "+573207778899",
+  "email": "jhurtado@beautyimport.co",
+  "ciudad": "Bogotá",
+  "marcas_suministradas": [
+    "Carolina Herrera",
+    "Paco Rabanne"
+  ],
+  "estado": "Activo"
+},
+{
+  "_id": {
+    "$oid": "6af339ca0152d1a11930c5cd"
+  },
+  "nombre_empresa": "Esencias del Valle",
+  "contacto_principal": "Luz Marina Ríos",
+  "telefono": "+573153332211",
+  "email": "gerencia@esenciasvalle.com",
+  "ciudad": "Cali",
+  "marcas_suministradas": [
+    "Giorgio Armani",
+    "Yves Saint Laurent"
+  ],
+  "estado": "Inactivo"
+},
+{
+  "_id": {
+    "$oid": "6af339ca0152d1a11930c5ce"
+  },
+  "nombre_empresa": "Parfums Exclusifs",
+  "contacto_principal": "Andrés Cepeda",
+  "telefono": "+573016667788",
+  "email": "acepeda@parfumsexclusifs.com",
+  "ciudad": "Medellín",
+  "marcas_suministradas": [
+    "Versace"
+  ],
+  "estado": "Activo"
+},
+{
+  "_id": {
+    "$oid": "6af339ca0152d1a11930c5cf"
+  },
+  "nombre_empresa": "Aromas Globales Ltda",
+  "contacto_principal": "Sofia Vergara",
+  "telefono": "+573189990011",
+  "email": "contacto@aromasglobales.com",
+  "ciudad": "Barranquilla",
+  "marcas_suministradas": [
+    "Tom Ford",
+    "Creed"
+  ],
+  "estado": "Activo"
+},
+{
+  "_id": {
+    "$oid": "6af339ca0152d1a11930c5d0"
+  },
+  "nombre_empresa": "Importaciones Olfativas",
+  "contacto_principal": "Hernán Peláez",
+  "telefono": "+573005554433",
+  "email": "hpelaez@importolfativas.co",
+  "ciudad": "Bogotá",
+  "marcas_suministradas": [
+    "Gucci",
+    "Prada"
+  ],
+  "estado": "Inactivo"
+},
+{
+  "_id": {
+    "$oid": "6af339ca0152d1a11930c5d1"
+  },
+  "nombre_empresa": "Fragancias Continental",
+  "contacto_principal": "Lina Tejeiro",
+  "telefono": "+573128889900",
+  "email": "comercial@fraganciascontinental.com",
+  "ciudad": "Medellín",
+  "marcas_suministradas": [
+    "Bvlgari",
+    "Dolce & Gabbana"
+  ],
+  "estado": "Activo"
+},
+{
+  "_id": {
+    "$oid": "6af339ca0152d1a11930c5d2"
+  },
+  "nombre_empresa": "DistriPerfumes del Neve",
+  "contacto_principal": "Felipe Arias",
+  "telefono": "+573102223344",
+  "email": "farias@distriperfumes.com",
+  "ciudad": "Pereira",
+  "marcas_suministradas": [
+    "Calvin Klein",
+    "Hugo Boss"
+  ],
+  "estado": "Activo"
+},
+{
+  "_id": {
+    "$oid": "6af339ca0152d1a11930c5d3"
+  },
+  "nombre_empresa": "Senzia Importaciones",
+  "contacto_principal": "Diana Trujillo",
+  "telefono": "+573214443322",
+  "email": "dtrujillo@senzia.com",
+  "ciudad": "Cali",
+  "marcas_suministradas": [
+    "Burberry",
+    "Givenchy"
+  ],
+  "estado": "Activo"
+}]

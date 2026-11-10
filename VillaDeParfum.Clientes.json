@@ -1,0 +1,110 @@
+[{
+  "_id": {
+    "$oid": "6af338490152d1a11930c5b0"
+  },
+  "nombre": "Elena Gómez",
+  "email": "elena.gomez@email.com",
+  "telefono": "+573001234567",
+  "ciudad": "Medellín",
+  "tipo_cliente": "Frecuente",
+  "fecha_registro": "2024-01-15T10:30:00Z"
+},
+{
+  "_id": {
+    "$oid": "6af338490152d1a11930c5b1"
+  },
+  "nombre": "Carlos Mendoza",
+  "email": "carlos.mendoza@email.com",
+  "telefono": "+573119876543",
+  "ciudad": "Envigado",
+  "tipo_cliente": "VIP",
+  "fecha_registro": "2024-02-01T14:20:00Z"
+},
+{
+  "_id": {
+    "$oid": "6af338490152d1a11930c5b2"
+  },
+  "nombre": "Mariana Ríos",
+  "email": "mariana.rios@email.com",
+  "telefono": "+573205551234",
+  "ciudad": "Medellín",
+  "tipo_cliente": "Nuevo",
+  "fecha_registro": "2024-03-10T09:15:00Z"
+},
+{
+  "_id": {
+    "$oid": "6af338490152d1a11930c5b3"
+  },
+  "nombre": "Andrés Morales",
+  "email": "andres.morales@email.com",
+  "telefono": "+573154448899",
+  "ciudad": "Bogotá",
+  "tipo_cliente": "Frecuente",
+  "fecha_registro": "2024-03-22T16:45:00Z"
+},
+{
+  "_id": {
+    "$oid": "6af338490152d1a11930c5b4"
+  },
+  "nombre": "Valentina Ospina",
+  "email": "valentina.ospina@email.com",
+  "telefono": "+573017773322",
+  "ciudad": "Envigado",
+  "tipo_cliente": "VIP",
+  "fecha_registro": "2024-04-05T11:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6af338490152d1a11930c5b5"
+  },
+  "nombre": "Santiago Ramírez",
+  "email": "santiago.ramirez@email.com",
+  "telefono": "+573182226611",
+  "ciudad": "Cali",
+  "tipo_cliente": "Nuevo",
+  "fecha_registro": "2024-05-12T18:30:00Z"
+},
+{
+  "_id": {
+    "$oid": "6af338490152d1a11930c5b6"
+  },
+  "nombre": "Camila Torrez",
+  "email": "camila.torrez@email.com",
+  "telefono": "+573009990011",
+  "ciudad": "Medellín",
+  "tipo_cliente": "VIP",
+  "fecha_registro": "2024-06-01T08:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6af338490152d1a11930c5b7"
+  },
+  "nombre": "Mateo Castro",
+  "email": "mateo.castro@email.com",
+  "telefono": "+573123334455",
+  "ciudad": "Bucaramanga",
+  "tipo_cliente": "Frecuente",
+  "fecha_registro": "2024-06-18T13:10:00Z"
+},
+{
+  "_id": {
+    "$oid": "6af338490152d1a11930c5b8"
+  },
+  "nombre": "Isabella Vargas",
+  "email": "isabella.vargas@email.com",
+  "telefono": "+573218887766",
+  "ciudad": "Envigado",
+  "tipo_cliente": "Nuevo",
+  "fecha_registro": "2024-07-02T15:25:00Z"
+},
+{
+  "_id": {
+    "$oid": "6af338490152d1a11930c5b9"
+  },
+  "nombre": "Daniel Herrera",
+  "email": "daniel.herrera@email.com",
+  "telefono": "+573106665544",
+  "ciudad": "Medellín",
+  "tipo_cliente": "Frecuente",
+  "fecha_registro": "2024-07-20T17:50:00Z"
+}]

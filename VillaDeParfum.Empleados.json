@@ -1,0 +1,110 @@
+[{
+  "_id": {
+    "$oid": "6af33a2e0152d1a11930c5d6"
+  },
+  "nombre": "Camila Morales",
+  "cargo": "Asesora de Ventas",
+  "departamento": "Ventas",
+  "salario": 1800000,
+  "fecha_contratacion": "2023-02-15",
+  "estado": "Activo"
+},
+{
+  "_id": {
+    "$oid": "6af33a2e0152d1a11930c5d7"
+  },
+  "nombre": "Mateo Saldarriaga",
+  "cargo": "Administrador de Tienda",
+  "departamento": "Administración",
+  "salario": 3500000,
+  "fecha_contratacion": "2022-05-10",
+  "estado": "Activo"
+},
+{
+  "_id": {
+    "$oid": "6af33a2e0152d1a11930c5d8"
+  },
+  "nombre": "Laura Restrepo",
+  "cargo": "Asesora de Ventas",
+  "departamento": "Ventas",
+  "salario": 1800000,
+  "fecha_contratacion": "2023-08-01",
+  "estado": "Activo"
+},
+{
+  "_id": {
+    "$oid": "6af33a2e0152d1a11930c5d9"
+  },
+  "nombre": "Daniela Calle",
+  "cargo": "Especialista en Fragancias",
+  "departamento": "Ventas",
+  "salario": 2200000,
+  "fecha_contratacion": "2023-11-20",
+  "estado": "Activo"
+},
+{
+  "_id": {
+    "$oid": "6af33a2e0152d1a11930c5da"
+  },
+  "nombre": "Sebastián Zapata",
+  "cargo": "Auxiliar de Inventario",
+  "departamento": "Logística",
+  "salario": 1500000,
+  "fecha_contratacion": "2024-01-10",
+  "estado": "Activo"
+},
+{
+  "_id": {
+    "$oid": "6af33a2e0152d1a11930c5db"
+  },
+  "nombre": "Alejandro Bedoya",
+  "cargo": "Cajero",
+  "departamento": "Ventas",
+  "salario": 1600000,
+  "fecha_contratacion": "2024-03-01",
+  "estado": "Activo"
+},
+{
+  "_id": {
+    "$oid": "6af33a2e0152d1a11930c5dc"
+  },
+  "nombre": "Mariana Montoya",
+  "cargo": "Community Manager",
+  "departamento": "Marketing",
+  "salario": 2500000,
+  "fecha_contratacion": "2023-06-15",
+  "estado": "Inactivo"
+},
+{
+  "_id": {
+    "$oid": "6af33a2e0152d1a11930c5dd"
+  },
+  "nombre": "Julian Henao",
+  "cargo": "Coordinador de Logística",
+  "departamento": "Logística",
+  "salario": 2800000,
+  "fecha_contratacion": "2022-10-01",
+  "estado": "Activo"
+},
+{
+  "_id": {
+    "$oid": "6af33a2e0152d1a11930c5de"
+  },
+  "nombre": "Isabel Cristina",
+  "cargo": "Asesora de Ventas",
+  "departamento": "Ventas",
+  "salario": 1800000,
+  "fecha_contratacion": "2024-04-15",
+  "estado": "Activo"
+},
+{
+  "_id": {
+    "$oid": "6af33a2e0152d1a11930c5df"
+  },
+  "nombre": "Esteban Agudelo",
+  "cargo": "Contador",
+  "departamento": "Administración",
+  "salario": 3200000,
+  "fecha_contratacion": "2022-01-15",
+  "estado": "Activo"
+}]

@@ -1,0 +1,110 @@
+[{
+  "_id": {
+    "$oid": "6af339720152d1a11930c5be"
+  },
+  "nombre": "Bleu de Chanel",
+  "marca": "Chanel",
+  "volumen_ml": 100,
+  "precio": 550000,
+  "categoria": "Eau de Parfum",
+  "stock": 15
+},
+{
+  "_id": {
+    "$oid": "6af339720152d1a11930c5bf"
+  },
+  "nombre": "Sauvage",
+  "marca": "Dior",
+  "volumen_ml": 100,
+  "precio": 480000,
+  "categoria": "Eau de Toilette",
+  "stock": 20
+},
+{
+  "_id": {
+    "$oid": "6af339720152d1a11930c5c0"
+  },
+  "nombre": "La Vie Est Belle",
+  "marca": "Lancôme",
+  "volumen_ml": 75,
+  "precio": 420000,
+  "categoria": "Eau de Parfum",
+  "stock": 12
+},
+{
+  "_id": {
+    "$oid": "6af339720152d1a11930c5c1"
+  },
+  "nombre": "Bad Boy",
+  "marca": "Carolina Herrera",
+  "volumen_ml": 100,
+  "precio": 390000,
+  "categoria": "Eau de Toilette",
+  "stock": 8
+},
+{
+  "_id": {
+    "$oid": "6af339720152d1a11930c5c2"
+  },
+  "nombre": "Good Girl",
+  "marca": "Carolina Herrera",
+  "volumen_ml": 80,
+  "precio": 460000,
+  "categoria": "Eau de Parfum",
+  "stock": 18
+},
+{
+  "_id": {
+    "$oid": "6af339720152d1a11930c5c3"
+  },
+  "nombre": "Acqua di Gio",
+  "marca": "Giorgio Armani",
+  "volumen_ml": 100,
+  "precio": 440000,
+  "categoria": "Eau de Toilette",
+  "stock": 25
+},
+{
+  "_id": {
+    "$oid": "6af339720152d1a11930c5c4"
+  },
+  "nombre": "Black Opium",
+  "marca": "Yves Saint Laurent",
+  "volumen_ml": 90,
+  "precio": 510000,
+  "categoria": "Eau de Parfum",
+  "stock": 10
+},
+{
+  "_id": {
+    "$oid": "6af339720152d1a11930c5c5"
+  },
+  "nombre": "1 Million",
+  "marca": "Paco Rabanne",
+  "volumen_ml": 100,
+  "precio": 380000,
+  "categoria": "Eau de Toilette",
+  "stock": 30
+},
+{
+  "_id": {
+    "$oid": "6af339720152d1a11930c5c6"
+  },
+  "nombre": "J'adore",
+  "marca": "Dior",
+  "volumen_ml": 50,
+  "precio": 350000,
+  "categoria": "Eau de Parfum",
+  "stock": 14
+},
+{
+  "_id": {
+    "$oid": "6af339720152d1a11930c5c7"
+  },
+  "nombre": "Eros",
+  "marca": "Versace",
+  "volumen_ml": 100,
+  "precio": 360000,
+  "categoria": "Eau de Toilette",
+  "stock": 22
+}]
